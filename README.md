@@ -1,3 +1,1 @@
-This is a sudoku game on Windows 11. You may download it from google drive or compile it by using pyinstall and pyqt5.
-The program is made by GLM ai and debug by Gemini ai.
-Have fun!
+This is a Sudoku game on Windows 11. You may download it from Google Drive or compile it using PyInstaller and PyQt5. The program is made by GLM AI and debugged by Gemini AI. Have fun!
